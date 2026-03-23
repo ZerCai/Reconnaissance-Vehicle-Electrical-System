@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Recon Vehicle ESP32-1 System\Project Outputs for Recon Vehicle ESP32-1 System\Pick Place for ESP32-1-PCB-Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/01/26
+Time:       16:53
+Revision:   539bc6b46267fe889d65046c964a8e7bbedd0ad9
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U2","DRV8833","TopLayer","PCBComponent_1","-31.8770","-6.4770","0","1.5A 2-Channel DC Motor Drive Board Ultra Small Volume Motor Drive Module Input Voltage 3 to 10V"
+"U4","DRV8833","TopLayer","PCBComponent_1","0.5080","-42.7990","90","1.5A 2-Channel DC Motor Drive Board Ultra Small Volume Motor Drive Module Input Voltage 3 to 10V"
+"U3","DRV8833","TopLayer","PCBComponent_1","31.7500","-0.8890","180","1.5A 2-Channel DC Motor Drive Board Ultra Small Volume Motor Drive Module Input Voltage 3 to 10V"
+"U1","ESP32-DEVKIT-V1","TopLayer","MODULE_ESP32_DEVKIT_V1","0.0000","0.0000","0","Dual core, Wi-Fi: 2.4 GHz up to 150 Mbits/s,BLE (Bluetooth Low Energy) and legacy Bluetooth, 32 bits, Up to 240 MHz"
+"TP4","Test Point","TopLayer","Test_Point","-24.7650","5.3340","90","Test Point"
+"TP3","Test Point","TopLayer","Test_Point","9.0170","35.8140","0","Test Point"
+"TP2","Test Point","TopLayer","Test_Point","-10.5410","36.4490","90","Test Point"
+"TP1","Test Point","TopLayer","Test_Point","-19.4310","18.4150","0","Test Point"
+"R5","1k","TopLayer","RESC3216X60X45ML10T20","-17.7800","5.3340","0",""
+"R4","1k","TopLayer","RESC3216X60X45ML10T20","9.0170","32.0040","270",""
+"R3","1k","TopLayer","RESC3216X60X45ML10T20","-10.5410","32.6650","270",""
+"R2","100k","TopLayer","FP-RP732B-MFG","-17.9070","10.2870","0","Res Thin Film 1206 100KO 0.1% 0.25W 15ppm/°C Molded SMD"
+"R1","180k","TopLayer","FP-CRCW1206-e3-IPC_B","-19.4310","13.9700","270","RES Thick Film, 180kO, 5%, 0.25W, 200ppm/°C, 1206"
+"J6","SSW-106-02-T-S","TopLayer","SMTC-SSW-106-02-X-S","0.5080","-56.0070","0","SQ Post Socket, Through-hole, Vertical, -55 to 105 degC, 2.54mm Pitch, 6-Pin, Female, RoHS"
+"J5","SSW-106-02-T-S","TopLayer","SMTC-SSW-106-02-X-S","44.9580","-0.8890","90","SQ Post Socket, Through-hole, Vertical, -55 to 105 degC, 2.54mm Pitch, 6-Pin, Female, RoHS"
+"J4","SSW-106-02-T-S","TopLayer","SMTC-SSW-106-02-X-S","-45.5930","-6.4770","270","SQ Post Socket, Through-hole, Vertical, -55 to 105 degC, 2.54mm Pitch, 6-Pin, Female, RoHS"
+"J3","1729128","TopLayer","PHOE-1729128-2_V","21.8440","36.5760","180","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"J2","1729128","TopLayer","PHOE-1729128-2_V","0.0000","36.8300","180","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"J1","1729128","TopLayer","PHOE-1729128-2_V","-21.5900","25.1460","270","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"
+"DS1","SML-LX1206IC-TR","TopLayer","LUMX-SML-LX1206IC_V","10.4140","28.0670","0","LED Red, 65 mW, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"D1","598-8270-107F","TopLayer","FP-598-8270-107F-MFG","-9.0170","28.3210","180","SM LED 1206 ALINGAP G 7 REEL"
+"C13","100nF","TopLayer","CAPC1206(3216)170_L","-18.0340","8.0010","180","CAP 100nF 50V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C12","1uF","TopLayer","CAPC1206(3216)170_L","0.2540","-31.8770","0","CAP 1uF 16V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C11","100nF","TopLayer","CAPC1206(3216)170_L","0.2540","-29.5910","0","CAP 100nF 50V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C10","1uF","TopLayer","CAPC1206(3216)170_L","18.6690","-0.7620","90","CAP 1uF 16V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C9","100nF","TopLayer","CAPC1206(3216)170_L","20.9550","-0.7590","90","CAP 100nF 50V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C8","1uF","TopLayer","CAPC1206(3216)170_L","-18.7960","-5.3340","270","CAP 1uF 16V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C7","100nF","TopLayer","CAPC1206(3216)170_L","-20.9550","-5.3340","270","CAP 100nF 50V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C6","100nF","TopLayer","CAPC1206(3216)170_L","19.3040","14.3480","90","CAP 100nF 50V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C5","10uF","TopLayer","FP-GCJ31C-0_4-IPC_C","16.2560","14.4780","270","Cap Ceramic 10uF 35V X7T 10% SMD 1206 +125°C Embossed Plastic T/R"
+"C4","100nF","TopLayer","CAPC1206(3216)170_L","21.8440","19.9390","0","CAP 100nF 50V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C3","470u","TopLayer","FP-RAD-TH-D_10_0_5-L_12_5-MFG","21.9310","26.6700","180","Aluminum Electrolytic Capacitors (Radial Lead Type) 470uF ±20% 16V"
+"C2","100nF","TopLayer","CAPC1206(3216)170_L","0.2540","27.9400","180","CAP 100nF 50V ±10% 1206 (3216 Metric) Thickness 1.7mm SMD"
+"C1","47uF","TopLayer","FP-CL32-IPC_C","0.2988","30.7340","0","Cap Ceramic 47uF 16V X5R ±20% SMD 1210 +85°C Embossed T/R; CL32A476MOJNNWE"
