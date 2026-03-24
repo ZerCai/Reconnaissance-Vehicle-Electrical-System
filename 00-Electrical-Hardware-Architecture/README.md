@@ -2,7 +2,7 @@
 <p align="center">
   <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/7a3563c2-9570-4edb-b36d-11212189c005" />
 </p>
-The power management PCB regulates the battery voltage and interfaces with the other PCBs by distributing +5 V to an ESP32 and three motor drivers on the motor control PCB and to another ESP32 and a gimbal servo on the camera stabilization PCB. This is performed using output connectors on the power management PCB, which connect to input connectors on the other PCBs through 20 AWG wires. Protection circuits and fuses are also implemented at the battery connector and at the voltage input of each buck converter. 
+The power management PCB regulates the battery voltage and interfaces with the other PCBs by distributing +5 V to an ESP32 and three motor drivers on the motor control PCB and to another ESP32 and a gimbal servo on the camera stabilization PCB. This is performed using output connectors on the power management PCB, which connect to input connectors on the other PCBs through 20 AWG wires. Protection circuits and fuses are also implemented at the battery connector and at the voltage input of each buck converter. 	
 
 **Motor Control**
 <p align="center">
