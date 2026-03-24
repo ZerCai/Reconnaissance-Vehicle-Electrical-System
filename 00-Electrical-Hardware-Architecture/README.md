@@ -8,7 +8,7 @@ The power management PCB regulates the battery voltage and interfaces with the o
 <p align="center">
   <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/13d84bf3-59a6-424f-a424-96e139d74a8e" />
 </p>
-For motor control, the XBox controller sends joystick inputs through Bluetooth to the ESP32, which then controls the motor drivers to move the six wheel motors. The motor drivers and ESP32 receive power from the power management PCB.
+For motor control, the XBox controller sends joystick inputs through Bluetooth to the ESP32, which then controls the motor drivers to move six wheel motors. The motor drivers and ESP32 receive power from the power management PCB.
 
 **Camera Stabilization**
 <p align="center">
