@@ -2,7 +2,7 @@
 
 **Reconnaissance Vehicle Final Design**
 <p align="center">
-  <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/689fcb73-f903-4e4b-9c4e-92715f6aaf98" />
+  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/689fcb73-f903-4e4b-9c4e-92715f6aaf98" />
 </p>
 
 **Reconnaissance Vehicle System Block Diagram**
