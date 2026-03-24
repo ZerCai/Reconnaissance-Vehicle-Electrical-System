@@ -1,3 +1,8 @@
+# Electrical System Final Design
+<p align="center">
+  <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/507c1530-95ad-4ff3-91ea-5635ac2282da" />
+</p>
+
 # Power Management and Distribution
 <p align="center">
   <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/7a3563c2-9570-4edb-b36d-11212189c005" />
