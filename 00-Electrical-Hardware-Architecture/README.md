@@ -2,6 +2,7 @@
 <p align="center">
   <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/507c1530-95ad-4ff3-91ea-5635ac2282da" />
 </p>
+The image above shows the electrical system of the reconnaissance vehicle. The power management PCB at the top distributes +5 V to the motor control PCB at the middle and the camera stabilization PCB at the bottom. 
 
 # Power Management and Distribution
 <p align="center">
