@@ -1,11 +1,12 @@
-**Project Demo Video:** https://www.youtube.com/watch?v=6TupsFSBIgM
+# Project Demo Video
+https://www.youtube.com/watch?v=6TupsFSBIgM
 
-**Reconnaissance Vehicle Final Design**
+# Reconnaissance Vehicle Final Design
 <p align="center">
   <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/689fcb73-f903-4e4b-9c4e-92715f6aaf98" />
 </p>
 
-**Reconnaissance Vehicle System Block Diagram**
+# Reconnaissance Vehicle System Block Diagram
 <p align="center">
   <img width="2716" height="1262" alt="image" src="https://github.com/user-attachments/assets/6e77e5ff-7609-4cb5-8dac-f92ec6807177" />
 </p>
