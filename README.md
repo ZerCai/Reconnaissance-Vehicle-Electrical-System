@@ -1,6 +1,16 @@
-**Reconnaissance Vehicle System Block Diagram:**
-<img width="2716" height="1262" alt="image" src="https://github.com/user-attachments/assets/6e77e5ff-7609-4cb5-8dac-f92ec6807177" />
-The image above shows the high-level system block diagram for the reconnaissance vehicle. The block diagram features four major subsystems: power management, motor control, camera stabilization, and computer vision. Power management, motor control, and camera stabilization are implemented as PCBs on the vehicle. For power management, the power supply is a LiPo battery. This subsystem steps down the battery’s voltage using buck converters to a stable +5 V and distributes it to supply  electronics such MCUs, motor drivers, and a servo motor in the motor control and camera stabilization subsystems, while ensuring protection between the buck converters and the battery. 
+**Project Demo Video:** https://www.youtube.com/watch?v=6TupsFSBIgM
+
+**Reconnaissance Vehicle Final Design**
+<p align="center">
+  <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/689fcb73-f903-4e4b-9c4e-92715f6aaf98" />
+</p>
+
+**Reconnaissance Vehicle System Block Diagram**
+<p align="center">
+  <img width="2716" height="1262" alt="image" src="https://github.com/user-attachments/assets/6e77e5ff-7609-4cb5-8dac-f92ec6807177" />
+</p>
+
+The image above shows the high-level system block diagram for the reconnaissance vehicle. The block diagram features four major subsystems: power management, motor control, camera stabilization, and computer vision. Power management, motor control, and camera stabilization are implemented as PCBs on the vehicle. For power management, the power supply is a LiPo battery. This subsystem steps down the battery’s voltage using buck converters to a stable +5 V and distributes it to supply electronics such MCUs, motor drivers, and a servo motor in the motor control and camera stabilization subsystems, while ensuring protection between the buck converters and the battery. 
 
 Next for motor control, the ESP32 receives commands from a XBox Controller through Bluetooth to control the speed and direction of six motors driven by three motor drivers using PWM signals. Additionally, in the camera stabilization subsystem, an IMU communicates with another ESP32 to send data on the orientation of the vehicle during traversal. This ESP32 then uses this data to control the servo motor on the gimbal to stabilize the camera based on the vehicle’s orientation. 
 
